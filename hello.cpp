@@ -1,0 +1,1 @@
+std::cout << "Hello Git! Version 2" << std::endl;
